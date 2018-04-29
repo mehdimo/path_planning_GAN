@@ -29,8 +29,10 @@ Requirements:
 - keras
 - sklearn
 
- 
- 
+Citation:
+-----------
+Please cite our work when using our software or dataset in your own research or publication.
+* Mohammadi, Mehdi, Ala Al-Fuqaha, and Jun-Seok Oh. "Path Planning in Support of Smart Mobility Applications using Generative Adversarial Networks." arXiv preprint arXiv:1804.08396 (2018).
 
 
  
