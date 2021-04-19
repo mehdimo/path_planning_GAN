@@ -32,7 +32,7 @@ Requirements:
 Citation:
 -----------
 Please cite our work when using our software or dataset in your own research or publication.
-* Mohammadi, Mehdi, Ala Al-Fuqaha, and Jun-Seok Oh. "Path Planning in Support of Smart Mobility Applications using Generative Adversarial Networks." arXiv preprint arXiv:1804.08396 (2018).
+* Mohammadi, Mehdi, Ala Al-Fuqaha, and Jun-Seok Oh. "Path Planning in Support of Smart Mobility Applications using Generative Adversarial Networks.", 2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData).
 
 
  
